@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "419301610575",
+    "firebase_url": "https://selfeedback-e0d94.firebaseio.com",
+    "project_id": "selfeedback-e0d94",
+    "storage_bucket": "selfeedback-e0d94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419301610575:android:2ebc7141aeaac6e7",
+        "android_client_info": {
+          "package_name": "com.cphs.selfeedback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419301610575-a7cmoebg3iqkh8j6f2loj0hatv2oddm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cphs.selfeedback",
+            "certificate_hash": "de3536ef4c764dc22523636a2fc482b9848b033d"
+          }
+        },
+        {
+          "client_id": "419301610575-2q8goun9hf2i3trf34k75rc1if63m04l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6xyPT8PH-KqLmqwCYxVU1DwCEZYkwuhI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419301610575-2q8goun9hf2i3trf34k75rc1if63m04l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
